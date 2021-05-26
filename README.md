@@ -13,7 +13,11 @@ http://visual.cs.ucl.ac.uk/pubs/deepblending
 alt="Teaser video" /></a>
 
 
-This repository contains the training and test code for our blending network.
+This repository contains the training and test code for our blending network. 
+
+## New! Source code for rendering and geometry refinement.
+
+You can find a full source code release [here](https://gitlab.inria.fr/sibr/projects/inside_out_deep_blending).
 
 ## Usage
 
